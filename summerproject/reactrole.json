@@ -1,0 +1,110 @@
+[
+    {
+        "role_name": "members",
+        "role_id": 842156274951127071,
+        "emoji": "\u2705",
+        "message_id": 843155400706621470
+    },
+    {
+        "role_name": "members",
+        "role_id": 842156274951127071,
+        "emoji": "\u2705",
+        "message_id": 843158020178706542
+    },
+    {
+        "role_name": "member",
+        "role_id": 843166738815123497,
+        "emoji": "\u2705",
+        "message_id": 843166846386831370
+    },
+    {
+        "role_name": "test",
+        "role_id": 843173600751779890,
+        "emoji": "\ud83d\udcaf",
+        "message_id": 843173732608639017
+    },
+    {
+        "role_name": "test",
+        "role_id": 843173600751779890,
+        "emoji": "\ud83d\udcaf",
+        "message_id": 843205749899395082
+    },
+    {
+        "role_name": "test",
+        "role_id": 843173600751779890,
+        "emoji": "\ud83d\udfe5",
+        "message_id": 844023806107582474
+    },
+    {
+        "role_name": "league player",
+        "role_id": 842165244612575252,
+        "emoji": "\u2694\ufe0f",
+        "message_id": 845772352250708018
+    },
+    {
+        "role_name": "Misa",
+        "role_id": 842527430945275935,
+        "emoji": "\ud83d\udda4",
+        "message_id": 845772806225526804
+    },
+    {
+        "role_name": "Misa",
+        "role_id": 842527430945275935,
+        "emoji": "\ud83d\udda4",
+        "message_id": 845772965885771797
+    },
+    {
+        "role_name": "Misa",
+        "role_id": 842527430945275935,
+        "emoji": "\ud83d\udda4",
+        "message_id": 845774201687638046
+    },
+    {
+        "role_name": "Misa",
+        "role_id": 842527430945275935,
+        "emoji": "\ud83d\udda4",
+        "message_id": 845774455413538846
+    },
+    {
+        "role_name": "Misa",
+        "role_id": 842527430945275935,
+        "emoji": "\ud83d\udda4",
+        "message_id": 845774704040345632
+    },
+    {
+        "role_name": "Misa",
+        "role_id": 842527430945275935,
+        "emoji": "\ud83d\udda4",
+        "message_id": 845774764869681233
+    },
+    {
+        "role_name": "farmer",
+        "role_id": 862477816063066122,
+        "emoji": "\ud83c\udf32",
+        "message_id": 862521346138701825
+    },
+    {
+        "role_name": "humans",
+        "role_id": 876140996344315914,
+        "emoji": "\ud83d\ude0f",
+        "message_id": 876142296301707284
+    },
+    {
+        "role_name": "Green Bean",
+        "role_id": 1026691729526628402,
+        "emoji": "\ud83d\udc22",
+        "message_id": 1026692144586567720
+    },
+    {
+        "role_name": "color",
+        "role_id": 1080682019161387048,
+        "emoji": "\ud83e\udd75",
+        "message_id": 1080682241090396190
+    },
+    {
+        "role_name": "Maddie <3",
+        "role_id": 1080924825410883715,
+        "emoji": "\ud83d\udc4d\ud83c\udffb",
+        "message_id": 1083550060979159050
+    }
+]

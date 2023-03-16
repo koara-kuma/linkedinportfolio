@@ -1,0 +1,83 @@
+img.medium{
+    float: left;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+
+}
+
+img.large{
+    width: 1080px;
+    height: 720px;
+    margin: 15px 15px 0 0;
+    
+    
+
+
+}
+.center{
+    text-align: center;
+}
+
+p{
+    color: white;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+h1{
+    color :white;
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-weight: normal;
+}
+h2{
+    color: white;
+    padding: 1cm .5cm 0 0;
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+body {
+    background: url(https://cdn.discordapp.com/attachments/1053431828360478772/1061066519997591602/Nunu_0.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+div{
+    padding:3cm 0 0 0;
+  }
+div.large{
+    padding: 1.5cm 0 0 0;
+}
+.red {
+    background-color: crimson; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+.blue{
+    background-color: teal; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.centered{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+
+}
